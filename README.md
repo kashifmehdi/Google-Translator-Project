@@ -1,5 +1,6 @@
 <h1 align="center">Google Translator</h1>
 ---
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)

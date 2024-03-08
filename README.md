@@ -20,12 +20,18 @@ from tkinter import messagebox
 1. Ensure you have Python installed on your system.
 2. Install required libraries using the following command:
 
+```bash
+pip install pillow googletrans==4.0.0-rc1
+```
 
 ## How to Run ▶️
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Run the following command in your terminal or command prompt:
+3. To run the project, execute the following command in your terminal or command prompt:
 
+```bash
+python translator.py
+```
 
 ## Usage 🖋️
 1. Enter text in the input box.

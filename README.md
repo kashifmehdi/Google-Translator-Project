@@ -1,3 +1,11 @@
+<div align="center">
+  
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-8.6-brightgreen)](https://docs.python.org/3/library/tkinter.html)
+[![Pillow](https://img.shields.io/badge/Pillow-8.3.2-orange)](https://pillow.readthedocs.io/en/stable/)
+[![Googletrans](https://img.shields.io/badge/Googletrans-4.0.0--rc1-yellow)](https://pypi.org/project/googletrans/4.0.0-rc1/)
+  
+</div>
 # Google Translator Project 🌐
 
 ## Description
@@ -44,3 +52,6 @@ python translator.py
 
 ## Contributions 🤝
 Contributions are welcome! If you'd like to enhance the project, feel free to fork the repository and submit a pull request.
+
+## Contact Information
+For questions, feedback, or collaboration opportunities, feel free to contact the project maintainer at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/).

@@ -6,6 +6,7 @@
 [![Googletrans](https://img.shields.io/badge/Googletrans-4.0.0--rc1-yellow)](https://pypi.org/project/googletrans/4.0.0-rc1/)
   
 </div>
+
 # Google Translator Project 🌐
 
 ## Description
